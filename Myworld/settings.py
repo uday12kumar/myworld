@@ -1,4 +1,5 @@
 # Django settings for Myworld project.
+#author uday
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
